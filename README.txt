@@ -1,3 +1,5 @@
+
+JUAN SEBASTIAN ACOSTA COY 
 comparacion de calcular la serie fourier iterativa y recursiva 
 
 calcular serie fourier iterativa
@@ -87,7 +89,8 @@ La versión recursiva recalcula subproblemas muchas veces y tiene un overhead de
 la funcion iterativa tiiene mayor profundidad de pila lo que puede generar errores de recursión en valores grandes de N
 cpmo tal el enfoque iterativo es lineal y mas facil de entender 
 
-#comparacion iterativo y recursivo 
+comparacion iterativo y recursivo 
+
 import numpy as np
 import matplotlib.pyplot as plt
 import time
